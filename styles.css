@@ -176,3 +176,6 @@ td:last-child {
 .highlight-yellow {
     background-color: yellow;
 }
+#move-count{
+    margin: 0px;
+}
